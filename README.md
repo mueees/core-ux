@@ -1,2 +1,9 @@
-# core-ux
-Core ux components
+# angular-seed
+Seed angular project
+
+Setup:
+bower i 
+npm i
+
+grunt debug - for development
+grunt compile - for live
